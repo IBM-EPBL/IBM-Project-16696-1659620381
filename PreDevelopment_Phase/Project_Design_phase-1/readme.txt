@@ -6,6 +6,6 @@ Project Statement: Visualizing And Predicting Heart Diseases With An Interactive
 Team Members:
 Team Leader -Ancy Sneha A
 Team Member 1 - Aakash G
-Team Member 2 - Afreen S
-Team Member 3-  Abirami S
+Team Member 2 - Abirami S
+Team Member 3-  Afreen S
 Team Member 4-  Harini N
